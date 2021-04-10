@@ -20,7 +20,7 @@ I bring order to the chaos, turn coffee into code, automate processes, constantl
 
 Proficient: Python, Django, Django Rest Framefork, SQL
 
-## About me 
+## ✏️ About me 
 
 My name is John, I am 22 years old and I'm a backend developer. I have been doing programming for about 1.5 years, trying out different technologies. I want to work on interesting web-projects. I have extensive teamwork experience and presentation of launched products.
 
