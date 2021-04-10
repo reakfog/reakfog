@@ -1,26 +1,8 @@
-## 👋 Welcome
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=reakfog) 
-
-<!--
-**reakfog/reakfog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="https://user-images.githubusercontent.com/26218291/76645436-cee8cc00-657a-11ea-9260-558fb3fa35bd.gif" height="250px"/><img src="https://github.com/reakog/IETS-Individual-Educational-Trajectory-System/blob/master/admin-page.gif" height="250px"/>
--->
+## 👋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=reakfog)
 
 I bring order to the chaos, turn coffee into code, automate processes, constantly develop
 
-Proficient: Python, Django, Django Rest Framefork, SQL
+Skills: Python, Django, Django Rest Framefork, SQL
 
 ## ✏️ About me 
 
