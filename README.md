@@ -22,7 +22,7 @@ Proficient: Python, Django, Django Rest Framefork, SQL
 
 ## 😄 About me 
 
-✌️ My name is John, I am 22 years old and I'm a backend developer. I have been doing programming for about 2 years, trying out different technologies. I want to work on interesting web-projects. I have extensive teamwork experience and presentation of launched products.
+✌️ My name is John, I am 22 years old and I'm a backend developer. I have been doing programming for about 1.5 years, trying out different technologies. I want to work on interesting web-projects. I have extensive teamwork experience and presentation of launched products.
 
 
 👩‍💻 I’m currently working on my first PC voice assistant
