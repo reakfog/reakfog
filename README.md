@@ -29,5 +29,6 @@ Proficient: Python, Django, Django Rest Framefork, SQL
 
 ## 📈 GitHub Stats
 
-![reakfog GitHub Stats](https://github-readme-stats.vercel.app/api?username=reakfog&count_private=true&hide=contribs&include_all_commits=True&hide_border=True&show_icons=true&theme=default)
+![reakfog GitHub Stats](https://github-readme-stats.vercel.app/api?username=reakfog&count_private=true&hide=contribs&include_all_commits=True&show_icons=true&theme=default)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reakfog&count_private=true&hide=tsql&langs_count=7&theme=default&layout=compact)
