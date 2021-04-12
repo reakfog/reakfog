@@ -2,7 +2,7 @@
 
 I bring order to the chaos, turn coffee into code, automate processes, constantly develop
 
-Skills: Python, Django, Django Rest Framefork, SQL
+Skills: Python, Django, Django Rest Framefork, SQL, PostgreSQL, Docker
 
 ## ✏️ About me 
 
