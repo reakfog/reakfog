@@ -1,6 +1,6 @@
 ## 👋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=reakfog)
 
-I bring order to the chaos, turn bugs into code, automate processes, constantly develop
+I bring order to the chaos, turn coffee into code, automate processes, constantly develop
 
 Skills: Python, Django, Django Rest Framefork, SQL
 
