@@ -10,6 +10,7 @@ My name is John, I am 22 years old and I'm a backend developer. I have been doin
 
 
 📌 I’m currently working on [PC voice assistant](https://github.com/reakfog/personal_computer_voice_assistant)
+   and personal task manger
 
 ## 📈 GitHub Stats
 
