@@ -1,4 +1,4 @@
-## 👋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=reakfog)
+## 👋 Welcome[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev
 
 I bring order to the chaos, turn coffee into code, automate processes, constantly develop
 
