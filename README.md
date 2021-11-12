@@ -7,7 +7,10 @@ My name is John, I am 23 years old and I'm a backend developer. I have been doin
 
 📌 My Skills
 
-Python, Django, Django Rest Framefork, SQL, PostgreSQL, Yandex Cloud, Docker, Nginx, Gunicorn, HTML, CSS, JavaScript, TypeScript, Twitter Bootstrap, React
++ Python, Django, Django Rest Framefork, SQL, PostgreSQL,
++ HTML, CSS, JavaScript, TypeScript, Twitter Bootstrap, React
++ Docker, Nginx, Gunicorn
++ Yandex Cloud
 
 ## 📈 GitHub Stats
 
