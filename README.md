@@ -3,14 +3,14 @@
  
 👋 Welcome
 
-My name is John, I am 23 years old and I'm a backend developer. I have been doing programming for about 1.5 years, trying out different technologies. I want to work on interesting web-projects, have extensive teamwork experience and presentation of launched products.
+My name is John, I am 23 years old and I'm a fullstack developer. I have been doing programming for about 1.5 years, trying out different technologies. I want to work on interesting web-projects, have extensive teamwork experience and presentation of launched products.
 
 📌 My Skills
 
-+ Python, Django, Django Rest Framefork, SQL, PostgreSQL
-+ HTML, CSS, JavaScript, TypeScript, Twitter Bootstrap
-+ Docker, Nginx, Gunicorn
-+ Yandex Cloud
++ Python, FastAPI, Django + Django Rest Framefork, SQL (PostgreSQL), Redis, Kafka
++ HTML, CSS, JavaScript, TypeScript, React, Twitter Bootstrap, Figma
++ Docker, Nginx, Gunicorn, k8s
++ Yandex Cloud, Grafana, Sentry, 
 
 📈 GitHub Stats
 
