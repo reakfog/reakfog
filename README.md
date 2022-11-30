@@ -7,7 +7,7 @@ My name is John, I am 23 years old and I'm a fullstack developer. I have been do
 📌 My Skills
 
 + Python, FastAPI, Django + Django Rest Framefork, SQL (PostgreSQL), Redis, Kafka
-+ HTML, CSS, JavaScript, TypeScript, React, Twitter Bootstrap, Figma
++ HTML, CSS, JavaScript, TypeScript, React, Twitter Bootstrap, MobX, Firebase
 + Docker, Nginx, Gunicorn, k8s
 + Yandex Cloud, Grafana, Sentry, 
 
