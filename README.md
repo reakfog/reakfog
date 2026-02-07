@@ -11,8 +11,3 @@ Hey! I’m a full-stack developer with 4+ years of extensive experience in backe
 + PostgreSQL, Kafka, Nuts, Redis, Minio, 
 + Docker, k8s, Nginx, uvcorn, CICD
 + Yandex Cloud, Grafana, Sentry, Firebase
-
-📈 GitHub Stats
-
-![reakfog GitHub Stats](https://github-readme-stats.vercel.app/api?username=reakfog&count_private=true&hide=contribs&include_all_commits=True&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reakfog&count_private=true&hide=tsql&langs_count=7&theme=default&layout=compact)
