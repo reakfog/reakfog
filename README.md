@@ -9,5 +9,5 @@ Hey! I’m a full-stack developer with 4+ years of extensive experience in backe
 + Python, Litestar, FastAPI, Django, Pydantic, SQLAlchemy, Potry, UV
 + TypeScript, JavaScript, HTML, SCSS, React.js, Million js, Zustand, MobX, styled-components, Vite, web-workers, web-pushes
 + PostgreSQL, Kafka, Nuts, Redis, Minio, 
-+ Docker, k8s, Nginx, uvcorn, CICD
++ Docker, k8s, Nginx, uvcorn, CICD, neutralino.js
 + Yandex Cloud, Grafana, Sentry, Firebase
