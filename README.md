@@ -2,14 +2,15 @@
  
 👋 Welcome
 
-My name is John, I am 23 years old and I'm a fullstack developer. I have been doing programming for about 1.5 years, trying out different technologies. I want to work on interesting web-projects, have extensive teamwork experience and presentation of launched products.
+Hey! I’m a full-stack developer with 4+ years of extensive experience in backend and frontend development. Perfectionist in a good sense of this word, going deep into the processes and details of each new project to achieve the best possible outcome. I can build processes in a new team and organize product development in a way that is most efficient and comfortable for team members.
 
 📌 My Skills
 
-+ Python, FastAPI, Django + Django Rest Framefork, SQL (PostgreSQL), Redis, Kafka
-+ HTML, CSS, JavaScript, TypeScript, React, Twitter Bootstrap, MobX, Firebase
-+ Docker, Nginx, Gunicorn, k8s
-+ Yandex Cloud, Grafana, Sentry, 
++ Python, Litestar, FastAPI, Django, Pydantic, SQLAlchemy, Potry, UV
++ TypeScript, JavaScript, HTML, SCSS, React.js, Million js, Zustand, MobX, styled-components, Vite, web-workers, web-pushes
++ PostgreSQL, Kafka, Nuts, Redis, Minio, 
++ Docker, k8s, Nginx, uvcorn, CICD
++ Yandex Cloud, Grafana, Sentry, Firebase
 
 📈 GitHub Stats
 
